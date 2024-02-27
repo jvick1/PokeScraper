@@ -23,3 +23,9 @@ This script essentially automates gathering Pokémon card data from the specifie
 6. **Data Storage:** After scraping, it creates a dictionary from the collected data and then converts it into a pandas DataFrame. Finally, it saves the DataFrame as a CSV file in the specified directory.
 
 7. **End Message:** It prints a message indicating the completion of the data pull and saving process.
+
+## Return
+
+Here is an example return after searching "Slowpoke".
+
+![image](https://github.com/jvick1/PokeScraper/assets/32043066/44eb8683-76da-49b0-8238-7813d1e2bf95)
